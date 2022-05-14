@@ -1,3 +1,3 @@
 hello
-first line of java code
-secondline of java code
+first line of python code
+secondline of python code
